@@ -4,7 +4,7 @@ import Papa from 'papaparse'
 import './App.css';
 
 const GIVEAWAY_NAME = "Shake It";
-const NUM_WINNERS = 1;
+const NUM_WINNERS = 3;
 const ENTRIES_PER_STORY = 5;
 
 class App extends Component {
